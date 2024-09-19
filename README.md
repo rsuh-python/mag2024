@@ -1,5 +1,7 @@
 # Материалы по программированию для курса магистратуры 2024-2026 года
 
+Таблица с баллами [тут](https://docs.google.com/spreadsheets/d/1VfJ5qnHiOyiDO8UTVDwFeVvDjjia3jg26G5FqF673bU/edit?usp=sharing)
+
 ## Содержание
 
 ### Теоретическая подгруппа: LT
